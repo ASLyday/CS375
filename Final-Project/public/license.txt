@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cheems
+* source:	https://sketchfab.com/3d-models/cheems-08a9726323ca4580bfa8940319687dc3
+* author:	nimish (https://sketchfab.com/nimish)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cheems" (https://sketchfab.com/3d-models/cheems-08a9726323ca4580bfa8940319687dc3) by nimish (https://sketchfab.com/nimish) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
