@@ -74,7 +74,7 @@ audioLoader.load( '/FlyMeToTheMoon.mp3', function( buffer ) {
 function animate() {
     requestAnimationFrame(animate);
     controls.update();
-    // Rotate around the Y-axis and stops when mouse is held, or model hasen't reached camera position z = 5
+    // Rotate around the Y-axis and stops when mouse is held
     if (model && rotateModel) {     
         model.rotation.y += 0.01; 
     }
